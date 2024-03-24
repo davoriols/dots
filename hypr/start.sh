@@ -18,4 +18,4 @@ dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
 
 # Set Background
 
-swaybg -i ~/Wallpapers/wallpaper.jpg
+swaybg -i ~/.config/wallpapers/wallpaper.jpg
